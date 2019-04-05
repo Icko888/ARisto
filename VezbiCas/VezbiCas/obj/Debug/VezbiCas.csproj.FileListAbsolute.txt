@@ -1,0 +1,12 @@
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\bin\Debug\VezbiCas.dll
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\bin\Debug\VezbiCas.pdb
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\obj\Debug\VezbiCas.csprojAssemblyReference.cache
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\obj\Debug\VezbiCas.csproj.CoreCompileInputs.cache
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\obj\Debug\VezbiCas.dll
+C:\Users\Risto.Arsov\source\repos\VezbiCas\VezbiCas\obj\Debug\VezbiCas.pdb
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\bin\Debug\VezbiCas.dll
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\bin\Debug\VezbiCas.pdb
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\obj\Debug\VezbiCas.csprojAssemblyReference.cache
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\obj\Debug\VezbiCas.csproj.CoreCompileInputs.cache
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\obj\Debug\VezbiCas.dll
+C:\Users\Riste\Desktop\VezbiCas\VezbiCas\obj\Debug\VezbiCas.pdb
