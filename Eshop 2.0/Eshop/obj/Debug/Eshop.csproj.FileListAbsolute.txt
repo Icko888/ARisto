@@ -1,0 +1,42 @@
+C:\Users\Riste\source\repos\Eshop\Eshop\bin\Debug\Eshop.dll
+C:\Users\Riste\source\repos\Eshop\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Riste\source\repos\Eshop\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Riste\source\repos\Eshop\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Riste\source\repos\Eshop\Eshop\obj\Debug\Eshop.dll
+C:\Users\Riste\source\repos\Eshop\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\bin\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\obj\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\Eshop\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop\Eshop\bin\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Riste\Desktop\Eshop\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Riste\Desktop\Eshop\Eshop\obj\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\bin\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\obj\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\ARisto-master\Eshop\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\bin\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\obj\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop 0.1\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\bin\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\obj\Debug\Eshop.dll
+C:\Users\Risto.Arsov\Desktop\Eshop 1.0\Eshop\obj\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\bin\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\bin\Debug\Eshop.pdb
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\obj\Debug\Eshop.csprojAssemblyReference.cache
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\obj\Debug\Eshop.csproj.CoreCompileInputs.cache
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\obj\Debug\Eshop.dll
+C:\Users\Riste\Desktop\Eshop 2.0\Eshop\obj\Debug\Eshop.pdb
